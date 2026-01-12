@@ -2,3 +2,4 @@ flask
 markdown==3.1.1
 flask-pagedown==0.2.2
 flask-wtf
+werkzeug>=3.1.5 # not directly required, pinned by Snyk to avoid a vulnerability
